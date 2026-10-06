@@ -1,0 +1,20 @@
+# Sistema e SO
+.DS_Store
+Thumbs.db
+*.log
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Dependências (caso venha a utilizar build tools)
+node_modules/
+dist/
+build/
+.npm/
+
+# Temporários
+scratch/
+tmp/
