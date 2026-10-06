@@ -4,6 +4,10 @@ Landing page oficial da turma da manhã da **Residência Full Stack 5.0**, progr
 
 O objetivo do projeto é apresentar a turma, os residentes e a jornada de aprendizado, e também praticar o desenvolvimento colaborativo usando **Agile methodologies** (metodologias ágeis), com cada aluno responsável por uma parte da entrega.
 
+## 📌 Documentação & Requisitos
+
+- 📑 **Especificação de Requisitos:** Veja o documento detalhado em [docs/REQUISITOS.md](docs/REQUISITOS.md).
+
 ## 🎯 Objetivos
 
 - Construir uma landing page (página de apresentação) da turma
@@ -58,7 +62,7 @@ Seguindo o **Conventional Commits** (padrão convencional de commits):
 
 ## 📂 Estrutura de pastas
 
-A definir pela turma.
+A definir pela turma (consulte a proposta inicial em [docs/REQUISITOS.md](docs/REQUISITOS.md)).
 
 ## 🚀 Como executar localmente
 
